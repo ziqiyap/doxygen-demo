@@ -1,2 +1,1 @@
-# doxygen-demo
-to try doxygen on github
+# A simple README file for the gh-pages branch
